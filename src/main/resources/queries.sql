@@ -1,0 +1,3 @@
+drop database if exists md05_demo_spring_boot_spring_security_jwt;
+create database md05_demo_spring_boot_spring_security_jwt;
+use md05_demo_spring_boot_spring_security_jwt;
